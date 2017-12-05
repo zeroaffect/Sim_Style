@@ -42,6 +42,11 @@
   margin-left: ($spacer * .50) !important;
 }
 
+.table {
+       width: 80%;
+	max-width: 80%;
+  }
+
 .card-body2 {
        padding: .5rem;
   }
